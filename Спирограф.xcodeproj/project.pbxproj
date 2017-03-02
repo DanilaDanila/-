@@ -13,10 +13,6 @@
 /* Begin PBXFileReference section */
 		D365BF461E6893B1004C2D41 /* Спирограф */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Спирограф"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D365BF491E6893B1004C2D41 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		D365BF4C1E6893B1004C2D41 /* cute_image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cute_image.jpg; sourceTree = "<group>"; };
-		D365BF4D1E6893B1004C2D41 /* nice_music.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = nice_music.ogg; sourceTree = "<group>"; };
-		D365BF4E1E6893B1004C2D41 /* sansation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sansation.ttf; sourceTree = "<group>"; };
-		D365BF4F1E6893B1004C2D41 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,20 +46,8 @@
 			isa = PBXGroup;
 			children = (
 				D365BF491E6893B1004C2D41 /* main.cpp */,
-				D365BF4B1E6893B1004C2D41 /* Resources */,
 			);
 			path = "Спирограф";
-			sourceTree = "<group>";
-		};
-		D365BF4B1E6893B1004C2D41 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				D365BF4C1E6893B1004C2D41 /* cute_image.jpg */,
-				D365BF4D1E6893B1004C2D41 /* nice_music.ogg */,
-				D365BF4E1E6893B1004C2D41 /* sansation.ttf */,
-				D365BF4F1E6893B1004C2D41 /* icon.png */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
